@@ -9,7 +9,6 @@ import (
 	"path/filepath"
 	"regexp"
 	"strings"
-	"sup"
 	"text/tabwriter"
 	"time"
 
